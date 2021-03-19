@@ -1,0 +1,17 @@
+@import "~bootstrap-select/dist/css/bootstrap-select.min.css";
+@import "./templates/layout/header/base/light.css";
+@import "./templates/layout/aside/dark.css";
+
+.brand-logo {
+    display: flex;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.menu-icon i {
+    color: #5bc7ff;
+}
+
+
+@import "./utils";
